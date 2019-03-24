@@ -6,3 +6,16 @@
 .porcentagem{
     font-size: 15px !important;
 }
+
+li.nav-header{
+    background: linear-gradient(#ED2C0C, #9C1D08);
+}
+
+div#wrapper, .progress-bar, a.btn-primary{
+    background:  #9C1D08;
+    
+}
+
+a.btn-primary{
+    background: #9C1D08;
+}
