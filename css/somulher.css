@@ -11,11 +11,17 @@ li.nav-header{
     background: linear-gradient(#ED2C0C, #9C1D08);
 }
 
-div#wrapper, .progress-bar, a.btn-primary{
+div#wrapper, .progress-bar, a.btn-primary, .btn-lg, .btn-lg-primary, .landing-page .btn-primary, .landing-page li.pricing-title, .landing-page .social-icon a {
     background:  #9C1D08;
     
 }
 
-a.btn-primary{
+
+.landing-page .testimonials{
+    background: rgba(155, 0, 0, 0.3) url(../img/landing/avatar_all.png);
+
+}
+
+a.btn-primary, .label-primary{
     background: #9C1D08;
 }
