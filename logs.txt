@@ -1,0 +1,97 @@
+[33mcommit a6630751a4097007834f9690811b4251100bba6b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 09:31:06 2019 -0300
+
+    Mudanças no cursos, curso_producao_audio, dsahboard 2 e 4
+
+[33mcommit 73abac573a61b325b1a4f5e20e66fdfc8b0f7e36[m
+Merge: a6f93d3 5ab9d8f
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 09:09:54 2019 -0300
+
+    asd
+
+[33mcommit 5ab9d8f57cbdb3457039317299d268710cc831e9[m
+Author: Felipe Lyra <felipe.arruda.lyra@gmail.com>
+Date:   Sun Mar 24 09:08:09 2019 -0300
+
+    Replace IN+ with ELLA
+
+[33mcommit a6f93d3a9605b8af1df3c326ad4004dc3e2cd69b[m
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 09:07:53 2019 -0300
+
+    updated some files
+
+[33mcommit 01221d07541832b3506835f8f4761fa09db9f62d[m
+Author: Felipe Lyra <felipe.arruda.lyra@gmail.com>
+Date:   Sun Mar 24 08:58:13 2019 -0300
+
+    Replace with new title
+
+[33mcommit b8b011e8960327da6b885a9b9d78ae5861394abc[m
+Merge: a13e389 352f2a1
+Author: Felipe Lyra <felipe.arruda.lyra@gmail.com>
+Date:   Sun Mar 24 08:29:18 2019 -0300
+
+    Merge branch 'master' of https://github.com/lrdRodrigues/cspn
+
+[33mcommit a13e389db291c5717c0fd6c43a53a60662b0d3e7[m
+Author: Felipe Lyra <felipe.arruda.lyra@gmail.com>
+Date:   Sun Mar 24 08:26:11 2019 -0300
+
+    landing
+
+[33mcommit 352f2a193c4f4e30baa5a50742f22bdca5aa3d18[m
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 08:07:31 2019 -0300
+
+    Updated dashboard_2 and dashboard_4_1
+
+[33mcommit 05a72fd1e4f7e6f4063014d5b95f8ee1bf09786a[m
+Author: Felipe Lyra <felipe.arruda.lyra@gmail.com>
+Date:   Sun Mar 24 07:30:35 2019 -0300
+
+    Changes to landing page
+
+[33mcommit e9f44b1c14640e1a66563f5e2aa94bde8d3a954c[m
+Author: Felipe Lyra <felipe.arruda.lyra@gmail.com>
+Date:   Sun Mar 24 06:26:46 2019 -0300
+
+    Removing not used sections from landing page
+
+[33mcommit 15aa564ac267c78a56cd5b92c1d5f90d706053e9[m
+Author: Felipe Lyra <felipe.arruda.lyra@gmail.com>
+Date:   Sun Mar 24 06:09:26 2019 -0300
+
+    Restore menu button for web mobile view
+
+[33mcommit 6491c31285827c1b05313aec1495b4bb4001bf39[m
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 05:43:39 2019 -0300
+
+    updated cursos.html
+
+[33mcommit 8c9f9d370372a25bb5e9ffff4e8d2d9046cb11d0[m
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 04:40:31 2019 -0300
+
+    Added other folders
+
+[33mcommit 4c999b7bd6e53f964f59ece488d619e568eeb700[m
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 04:29:54 2019 -0300
+
+    Added other files
+
+[33mcommit 453a0afba8355d2d6df5322c3e777028bbf54901[m
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 04:27:04 2019 -0300
+
+    Website files added
+
+[33mcommit d3b08eb60649403d2749741d73a6f364e1263627[m
+Author: Rogerio Rodrigues <Rogerio.LimaRodrigues@sanofi.com>
+Date:   Sun Mar 24 04:25:28 2019 -0300
+
+    files Added
